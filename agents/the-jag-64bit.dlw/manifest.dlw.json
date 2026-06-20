@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The 64-bit Claim",
+  "universe": "JAG · The 64-bit Claim (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦The 64-bit Claim:JAG:b5625e⟧",
+  "carbon": "the-jag-64bit.carbon.tiff (TIFF)",
+  "silicon": "the-jag-64bit.silicon.png (PNG)",
+  "seal_sha256": "27a6807d7551a8cf3b063ca25dbd67bafae3b44c060dfbb88d4bca7237aece12",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

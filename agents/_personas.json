@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "the-jag-tom",
+    "name": "Tom",
+    "epithet": "the powerful core · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Tom:JAG:9a9ad2⟧"
+  },
+  {
+    "slug": "the-jag-jerry",
+    "name": "Jerry",
+    "epithet": "sound and math · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Jerry:JAG:d12a8b⟧"
+  },
+  {
+    "slug": "the-jag-68000",
+    "name": "The 68000",
+    "epithet": "the seductive bottleneck · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The 68000:JAG:7e95fe⟧"
+  },
+  {
+    "slug": "the-jag-64bit",
+    "name": "The 64-bit Claim",
+    "epithet": "math, not a CPU · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The 64-bit Claim:JAG:b5625e⟧"
+  },
+  {
+    "slug": "the-jag-ram",
+    "name": "The RAM",
+    "epithet": "the working memory · natural",
+    "emergence": "natural",
+    "moniker": "⟦The RAM:JAG:607fa8⟧"
+  },
+  {
+    "slug": "the-jag-cart",
+    "name": "The Cartridge",
+    "epithet": "the game · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Cartridge:JAG:7fede8⟧"
+  }
+]

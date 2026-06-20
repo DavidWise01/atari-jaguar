@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The RAM",
+  "universe": "JAG · The RAM (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The RAM:JAG:607fa8⟧",
+  "carbon": "the-jag-ram.carbon.tiff (TIFF)",
+  "silicon": "the-jag-ram.silicon.png (PNG)",
+  "seal_sha256": "0ea4c7002d4fcff1fb1db36ed84964b803e0c35c7aad15b1c368afd7dee8421b",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

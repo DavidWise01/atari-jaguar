@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "ATARI JAGUAR",
+  "universe": "JAG · ATARI JAGUAR (exereunesis · the teardown)",
+  "emergence": "",
+  "moniker": "⟦ATARI JAGUAR:JAG:b5e0d9⟧",
+  "carbon": "atari-jaguar.carbon.tiff (TIFF)",
+  "silicon": "atari-jaguar.silicon.png (PNG)",
+  "seal_sha256": "193563798d9e054f28427b707056f10a41aae10fe2c33116f5ca0537b3d1a798",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

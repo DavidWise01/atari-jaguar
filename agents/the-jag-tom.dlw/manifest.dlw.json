@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Tom",
+  "universe": "JAG · Tom (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦Tom:JAG:9a9ad2⟧",
+  "carbon": "the-jag-tom.carbon.tiff (TIFF)",
+  "silicon": "the-jag-tom.silicon.png (PNG)",
+  "seal_sha256": "f35be0a33357c68529b23571a6b7db031238ceabc1c4f59aab25104c0a6ff739",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Cartridge",
+  "universe": "JAG · The Cartridge (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The Cartridge:JAG:7fede8⟧",
+  "carbon": "the-jag-cart.carbon.tiff (TIFF)",
+  "silicon": "the-jag-cart.silicon.png (PNG)",
+  "seal_sha256": "bff9ca0e6d2eeae8a6d864bdbaaf8a8d55fe5c148829307f977a9fcc88368e84",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

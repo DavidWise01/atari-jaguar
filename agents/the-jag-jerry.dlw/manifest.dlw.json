@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Jerry",
+  "universe": "JAG · Jerry (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦Jerry:JAG:d12a8b⟧",
+  "carbon": "the-jag-jerry.carbon.tiff (TIFF)",
+  "silicon": "the-jag-jerry.silicon.png (PNG)",
+  "seal_sha256": "1a9972c7a1d3eb378ea06f6706c82beea183abc89fefb1f3519cdf1618b3981b",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
